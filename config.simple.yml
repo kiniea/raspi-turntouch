@@ -1,5 +1,5 @@
 - name: turntouch
-  mac: YOUR:MAC:ID:HERE
+  mac: E2:35:4F:B2:6C:D3
   default_action: echo
   buttons:
     north_press:
